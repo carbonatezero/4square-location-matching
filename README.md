@@ -1,7 +1,7 @@
 # foursquare-location-matching
 
 Initialization Date: 2022.05.17
-Authors: Tim Gorman, Ling Zhou, Yu Cao
+Authors: Yu Cao, Tim Gorman, Ling Zhou 
 
 -------------------------------------
 Repo Description
