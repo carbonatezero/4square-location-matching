@@ -1,6 +1,6 @@
 # foursquare-location-matching
 
-Initialization Date: 2022.05.17
+Initialization Date: 2022.05.17  
 Authors: Yu Cao, Tim Gorman, Ling Zhou 
 
 -------------------------------------
